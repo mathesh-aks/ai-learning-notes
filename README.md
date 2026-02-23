@@ -8,7 +8,7 @@ My journey exploring Artificial Intelligence, Prompt Engineering, and real-world
 - Business Use Cases
 
 ## Tools I Use
-ChatGPT, Gemini, Claude, Midjourney, Runway, ElevenLabs, Perplexity
+Every AI tools either Paid or Unpaid I have tried my best for both Vibe Coding and Marketing.
 
 ## Goal
 Learning by building real AI experiments and sharing progress.
